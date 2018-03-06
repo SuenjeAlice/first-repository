@@ -38,6 +38,8 @@ public class Break_Ex2
 			}
 		}
 
+		Index.main(null);
+
 	}
 
 }
