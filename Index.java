@@ -5,7 +5,7 @@ public class Index{
   public static void main(String[] args){
     Scanner input = new Scanner(System.in);
 
-    System.out.println("Select an option (1-10):");
+    System.out.println("Select an option (1-11):");
     System.out.println();
     System.out.println("1. Break");
     System.out.println("2. Switch");
@@ -16,7 +16,8 @@ public class Index{
     System.out.println("7. Second Array");
     System.out.println("8. Try and Catch");
     System.out.println("9. Enhanced For");
-    System.out.println("10. Exit");
+    System.out.println("10. Multidimensional Array");
+    System.out.println("11. Exit");
 
     System.out.println();
 
@@ -70,6 +71,11 @@ public class Index{
 	  	EnhancedFor.main(null);
         break;
       case 10:
+	  	System.out.println("Search Student lab");
+	  	System.out.println();
+	  	SearchStudent.main(null);
+        break;
+      case 11:
         System.out.println("Exiting....");
         break;
       default:
