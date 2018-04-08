@@ -33,6 +33,8 @@ public class Power{
 
 		}
 
+		Extra.main(null);
+
 	}
 
 	public static int integerPower( int base, int exponent){
@@ -43,5 +45,6 @@ public class Power{
 
 		return product;
 	}
+
 
 }

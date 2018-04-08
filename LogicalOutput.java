@@ -27,6 +27,8 @@ public class LogicalOutput
 		System.out.println((j >= i)||(k==m));
 		System.out.println((k+m<j)|(3-j >=k));
 		System.out.println(!(k>m));
+
+		Extra.main(null);
 	}
 
 }

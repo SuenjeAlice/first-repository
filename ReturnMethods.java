@@ -17,6 +17,8 @@ public class ReturnMethods{
 		ReturnMethods methods = new ReturnMethods();
 		System.out.println("Value returned: "+methods.method1());
 
+		Extra.main(null);
+
 	}
 
 	public int method1(){

@@ -30,6 +30,8 @@ public class Iterations
 
 			System.out.println();
 		}
+
+		Extra.main(null);
 	}
 
 }

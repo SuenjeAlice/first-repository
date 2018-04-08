@@ -27,6 +27,8 @@ public class ThirdArray
 		}
 
 		System.out.println();
+
+		Extra.main(null);
 	}
 
 }

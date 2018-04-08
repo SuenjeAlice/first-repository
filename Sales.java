@@ -56,6 +56,8 @@ public class Sales
 		}
 		System.out.println();
 		System.out.println("Total retail value of all products sold is: " + Math.round(total));
+
+		Extra.main(null);
 	}
 
 }

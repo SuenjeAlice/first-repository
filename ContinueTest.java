@@ -25,6 +25,8 @@ public class ContinueTest
 		}
 
 		System.out.println("Used a strucured equivalent of continue to skip printing 5");
+
+		Extra.main(null);
 	}
 
 }

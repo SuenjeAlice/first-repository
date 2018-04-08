@@ -38,6 +38,8 @@ public class Continue
 
 		System.out.println();
 
+		Extra.main(null);
+
 	}
 
 }

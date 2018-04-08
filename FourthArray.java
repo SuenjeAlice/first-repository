@@ -22,6 +22,8 @@ public class FourthArray
 		}
 
 		System.out.println("Sum of array values is: "+total);
+
+		Extra.main(null);
 	}
 
 }

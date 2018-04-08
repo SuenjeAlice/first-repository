@@ -40,6 +40,8 @@ public class Grades
 			System.out.println("F");
 		else
 			System.out.println("Invalid grade.");
+
+			Extra.main(null);
 	}
 
 }

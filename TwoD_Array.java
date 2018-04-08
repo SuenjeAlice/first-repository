@@ -28,6 +28,8 @@ public class TwoD_Array
 			for(int j = 0; j < x[i].length; j++)
 				System.out.println(x[i][j]);
 		}
+
+		Extra.main(null);
 	}
 
 }

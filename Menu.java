@@ -13,7 +13,7 @@ public class Menu{
      System.out.print("Choice: ");
      int choice = input.nextInt();
      System.out.println();
-    
+
      switch(choice){
        case 1:
        System.out.println("If..else lab");
@@ -32,5 +32,7 @@ public class Menu{
        break;
      }
      System.out.println();
+
+     Extra.main(null);
  }
 }
